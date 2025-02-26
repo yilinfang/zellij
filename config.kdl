@@ -444,9 +444,3 @@ default_mode "normal"
 // Theme
 
 theme "tokyo-night"
-
-// env
-
-env {
-    ZELLIJ_SPECIAL_SIGNAL 1
-}

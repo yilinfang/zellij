@@ -444,3 +444,10 @@ default_mode "normal"
 // Theme
 
 theme "tokyo-night"
+
+// env
+
+env {
+  EDITOR "nvim"
+  VISUAL "nvim"
+}

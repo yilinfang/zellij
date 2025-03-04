@@ -447,10 +447,10 @@ theme "tokyo-night"
 
 // env
 
-env {
-
-  // The editors can not detect osc 52 when in a Zellij environment, use patched nvim (force nvim using osc 52) instead.
-  EDITOR "nvim"
-  VISUAL "nvim"
-
-}
+// env {
+// 
+//   // The editors can not detect osc 52 when in a Zellij environment, use patched nvim (force nvim using osc 52) instead.
+//   EDITOR "nvim"
+//   VISUAL "nvim"
+// 
+// }
